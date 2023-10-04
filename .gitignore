@@ -1,0 +1,4 @@
+task.txt
+*.exc
+!imp.exc
+note/
