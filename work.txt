@@ -1,4 +1,3 @@
 create Page Setting
-create page name
 create page home
 create page login
