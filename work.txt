@@ -1,3 +1,2 @@
 create Page Setting
 create page name
-create page home
