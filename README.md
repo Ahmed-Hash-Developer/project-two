@@ -13,7 +13,8 @@ ex GIt :
 
 ```
 git init
-git add
+git add .
+git commit -m "Fix READMY"
 ```
 
 [Youtube](https://www.youtube.com/)
